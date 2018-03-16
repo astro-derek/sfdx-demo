@@ -1,0 +1,31 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef1"
+            },
+            "Name": "Hyatt",
+            "Location__Latitude__s": 5.22,
+            "Location__Longitude__s": 1.25
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef2"
+            },
+            "Name": "Merriot Marquis",
+            "Location__Latitude__s": 37.785143,
+            "Location__Longitude__s": -122.403405
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef3"
+            },
+            "Name": "Hilton union square",
+            "Location__Latitude__s": 77.52554,
+            "Location__Longitude__s": 124.44
+        }
+    ]
+}
